@@ -1,1 +1,2 @@
-test.variable= hemant
+property-file.name=variable change
+property-file.description=Default env properties
